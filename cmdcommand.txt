@@ -1,0 +1,4 @@
+javac -cp "..\lib\*" FILE_NAME.java
+java -cp ".;..\lib\*" FILE_NAME
+
+
